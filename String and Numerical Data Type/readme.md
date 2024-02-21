@@ -6,11 +6,11 @@ This section encapsulates my learning journey within the bootcamp, specifically 
 
 ## Files :page_with_curl:
 
-1. **`manipulation.py`**: Explore the world of string manipulation. This file documents my early attempts at modifying and working with strings.
+1. [manipulation.py](manipulation.py): Explore the world of string manipulation. This file documents my early attempts at modifying and working with strings.
 
-2. **`numbers.py`**: Delve into numerical data types. Here, you'll find my progress in handling numeric values, performing calculations, and gaining a deeper understanding of numerical variables.
+2. [numbers.py](numbers.py): Delve into numerical data types. Here, you'll find my progress in handling numeric values, performing calculations, and gaining a deeper understanding of numerical variables.
 
-3. **`replace.py`**: Mastering the `replace` method. This file showcases my evolving skills in efficiently substituting characters or sequences within a string.
+3. [replace.py](replace.py): Mastering the `replace` method. This file showcases my evolving skills in efficiently substituting characters or sequences within a string.
 
 ## My Learning Journey :mag:
 
