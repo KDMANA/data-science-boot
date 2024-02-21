@@ -6,7 +6,7 @@ Embark on the logical side of programming with a focus on operators. This sectio
 
 ## File 📄
 
-1. **`award.py`**: Explore the world of logical programming through this file. Witness my progress in utilising various operators to make decisions and manipulate data.
+1. [award.py](award.py): Explore the world of logical programming through this file. Witness my progress in utilising various operators to make decisions and manipulate data.
 
 ## My Learning Highlights 🚀
 
