@@ -6,11 +6,11 @@ Welcome to the initial stage of my coding journey! This folder captures my early
 
 ## Files :page_with_curl:
 
-1. **`unique_hello_world.py`**: Dive into the basics with the classic "Hello, World!" program. This file represents my initial steps in writing and executing Python code.
+1. [unique_hello_world.py](unique_hello_world.py): Dive into the basics with the classic "Hello, World!" program. This file represents my initial steps in writing and executing Python code.
 
-2. **`details_user_input.py`**: Explore user interaction in programming. Learn how to handle user input, creating a more dynamic and engaging coding experience.
+2. [details_user_input.py](details_user_input.py): Explore user interaction in programming. Learn how to handle user input, creating a more dynamic and engaging coding experience.
 
-3. **`conversion_casting.py`**: Delve into the world of variable conversion using casting. Understand how to transform data types, an essential skill as I advance in my programming skills.
+3. [conversion_casting.py](conversion_casting.py): Delve into the world of variable conversion using casting. Understand how to transform data types, an essential skill as I advance in my programming skills.
 
 ## How to Explore
 
