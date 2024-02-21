@@ -4,7 +4,7 @@
 Welcome to my journey through the HyperionDev CoGrammar Data Science Bootcamp! This repository documents my progress, projects, and learning experiences as I navigate the exciting world of data science.
 
 ## Folder Structure 📂
-- [Week_1](Week_1/): Initial steps, understanding the basics of programming and data science.
+- [First Program and Using Variables](First Program and Using Variables/): Initial steps, understanding the basics of programming and data science.
 - [Week_2](Week_2/): Dive into more advanced concepts and hands-on projects.
 - [Control_Structures](Control_Structures/): Explore the power of control structures, including for and while loops.
 - [Data_Manipulation](Data_Manipulation/): Master the art of manipulating and analysing data using Python.
