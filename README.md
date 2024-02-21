@@ -14,7 +14,7 @@ Welcome to my journey through the HyperionDev CoGrammar Data Science Bootcamp! T
 - [String Handling](String%20Handling/): Embark on a journey with me as I explore creative ways to manipulate and process textual data.
 - [Data Structures - Lists and Dictionaries](Data%20Structures%20-%20Lists%20and%20Dictionaries/): Join me as I unfold the versatility of structured data handling!
 
-## Learning Highlights 🚀
+## Learning Highlights 🎉
 - Understand the fundamentals of programming and data science.
 - Apply control structures for efficient code execution.
 - Develop skills in data manipulation and analysis.
