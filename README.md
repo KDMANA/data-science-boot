@@ -11,6 +11,8 @@ Welcome to my journey through the HyperionDev CoGrammar Data Science Bootcamp! T
 - [Capstone Project - Variables and Control Structures](Capstone%20Project%20-%20Variables%20and%20Control%20Structures/): Showcasing my skills in solving real-world problems with data science.
 - [Control Structures - While Loop](Control%20Structures%20-%20While%20Loop/): Mastering the art of loop control and how to repeat a block of code until a certain condition is met.
 - [Control Structures - For Loops](Control%20Structures%20-%20For%20Loops/): Explore the versatility of for loops, iterate over sequences and perform repetitive tasks efficiently.
+- [String Handling](String%20Handling/): Embark on a journey with me as I explore creative ways to manipulate and process textual data.
+- [Data Structures - Lists and Dictionaries](Data%20Structures%20-%20Lists%20and%20Dictionaries/): Join me as I unfold the versatility of structured data handling!
 
 ## Learning Highlights 🚀
 - Understand the fundamentals of programming and data science.
